@@ -1,4 +1,4 @@
-Customer Churn Analysis Dashboard (SQL + Power BI)
+**Customer Churn Analysis Dashboard (SQL + Power BI)**
 <img width="623" height="351" alt="image" src="https://github.com/user-attachments/assets/5d8d5128-e125-46d2-a6fd-d670b59a5c64" />
 <img width="632" height="352" alt="image" src="https://github.com/user-attachments/assets/9cd6e06a-3c88-4728-85ad-ea39f25f2bee" />
 
